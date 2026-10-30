@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano de implementação para reformulação visual da landing page Thai Elite: separação em dois carrosséis independentes (vídeos verticais 9:16 estilo Reels e depoimentos de alunos), criação da seção nativa dos 5 Bônus Exclusivos em Bento Grid fiel à 3ª imagem, enriquecimento das animações de scroll e correção do erro de build/deploy (vite exit 127).",
+  "updatedAt":  "2026-10-24T05:51:30.150016503Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
